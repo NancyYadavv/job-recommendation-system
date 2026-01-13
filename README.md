@@ -48,4 +48,24 @@ By the end of the project, the system provides:
 ---
 
 ## 🔗 Repository Structure
+job-recommendation-system/
+├── backend/ # FastAPI backend (APIs, models, auth, ML logic)
+├── frontend/ # React frontend (pages, components, services)
+├── notebooks/ # ML experiments and testing
+└── README.md # Project description and instructions
+
+
+---
+
+## 💡 Future Improvements
+- Resume upload and automated parsing  
+- Feedback-driven recommendation improvements  
+- Deployment on cloud with full database support  
+- Advanced ML models for better matching  
+
+---
+
+## 📌 Keywords / Topics
+job-recommendation | nlp | fastapi | react | full-stack | ai | beginner-project
+
 
